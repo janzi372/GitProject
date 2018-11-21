@@ -1,0 +1,6 @@
+Stags 3 3 3 9
+Dires 3 3 0 6
+Falcons 0 0 0 0
+Hunters 0 0 3 3
+Jaguars 0 0 0 0
+Pythons 0 0 0 0
